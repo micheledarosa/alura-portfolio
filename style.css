@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: #F6F6F6;
+}
+
+h1 {
+    font-family: 'Krona One', sans-serif;
+}
+
+h1, strong {
+    color: #22D4FD;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
