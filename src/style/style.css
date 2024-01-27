@@ -35,6 +35,7 @@ p {
     line-height: 36px;
     width: 593px;
     height: 144px;
+    margin-top: 40px;
 }
 
 .buttons {
@@ -48,7 +49,7 @@ p {
 
 .buttons .buttons__social {
     display: flex;
-    width: 280px;
+    width: 275px;
     height: 79px;
     padding: 16px;
     justify-content: center;
